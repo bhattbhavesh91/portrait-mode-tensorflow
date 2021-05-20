@@ -1,6 +1,10 @@
 # How to Blur Photo Background using Tensorflow (Deep Learning)
 ## To view the video
 
+**If you like my work, you can support me by buying me a coffee by clicking the link below**
+
+<a href="https://www.buymeacoffee.com/bhattbhavesh91" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
 <table>
    <tr>
       <td><a href="http://www.youtube.com/watch?v=75wSW5dBQZs" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/75wSW5dBQZs?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
